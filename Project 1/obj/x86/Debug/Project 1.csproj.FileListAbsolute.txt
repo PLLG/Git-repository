@@ -10,3 +10,4 @@ C:\Git program\Git Repository\Project 1\obj\x86\Debug\Project 1.exe
 C:\Git program\Git Repository\Project 1\obj\x86\Debug\Project 1.pdb
 C:\Git program\Git Repository\Project 1\bin\Debug\Project 1.exe
 C:\Git program\Git Repository\Project 1\bin\Debug\Project 1.pdb
+C:\Git program\Git Repository\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
