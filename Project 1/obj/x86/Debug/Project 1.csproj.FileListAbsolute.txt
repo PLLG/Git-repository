@@ -1,0 +1,12 @@
+C:\Users\Philip la Grange\AppData\Local\Temporary Projects\Project 1\bin\Debug\Project 1.exe
+C:\Users\Philip la Grange\AppData\Local\Temporary Projects\Project 1\bin\Debug\Project 1.pdb
+C:\Users\Philip la Grange\AppData\Local\Temporary Projects\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\Philip la Grange\AppData\Local\Temporary Projects\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Test Git\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Test Git\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Test Git\Project 1\Project 1\bin\Debug\Project 1.exe
+C:\Test Git\Project 1\Project 1\bin\Debug\Project 1.pdb
+C:\Git program\Git Repository\Project 1\obj\x86\Debug\Project 1.exe
+C:\Git program\Git Repository\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Git program\Git Repository\Project 1\bin\Debug\Project 1.exe
+C:\Git program\Git Repository\Project 1\bin\Debug\Project 1.pdb
