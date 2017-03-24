@@ -11,6 +11,7 @@ namespace Project_1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("I added another output line on 2017-03-24");
+            Console.WriteLine("Line 3 on 2017-03-24");
             Console.ReadLine();
         }
     }
